@@ -6,3 +6,5 @@ Plural.sh AI is built with FastAPI
 
 Swaggger Documentation: /docs
 Chat endpoint: /chat
+
+Export your openai key with `export OPENAI_API_KEY = 'sk-yourkey'`
